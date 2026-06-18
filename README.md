@@ -1,10 +1,10 @@
-## Olá! Eu sou o Lucas Antonio.
+## Olá! Eu sou o Lucas Souza.
 
 - 🌱 Estudando Engenharia de Software na Unicesumar - MGA.
 - 💬 Contate-me pelo email: lucasbentuw@gmail.com
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoouza&show_icons=true&theme=dark&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=lucasoouza&show_icons=true&show_icons=true&theme=dark&count_private=true" />
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoouza&show_icons=true&theme=dark&count_private=true"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=lucasoouza&show_icons=true&show_icons=true&theme=dark&count_private=true" />
 </div>
 
 <div style="display: inline_block"><br>
