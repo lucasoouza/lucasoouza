@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Souza.
 
-- 🌱 Estudando Engenharia de Software na Unicesumar - MGA.
+- 🌱 Estudando Engenharia de Software na Unicesumar - Máringa.
 - 💬 Contate-me pelo email: lucasbentuw@gmail.com
 <div align = "left">
 <img height = "126em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoouza&show_icons=true&theme=dark&count_private=true"/>
